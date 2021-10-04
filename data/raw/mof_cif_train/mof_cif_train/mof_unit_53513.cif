@@ -1,0 +1,93 @@
+data_mof_unit_53513.cif
+_audit_creation_date              2012-12-10T16:42:32-0500
+_audit_creation_method            fapswitch 2.2
+_symmetry_space_group_name_H-M    P1
+_symmetry_Int_Tables_number       1
+_space_group_crystal_system       triclinic
+_cell_length_a                    7.478527
+_cell_length_b                    8.686872
+_cell_length_c                    11.033479
+_cell_angle_alpha                 88.916641
+_cell_angle_beta                  72.557391
+_cell_angle_gamma                 102.815698
+_cell_volume                      663.979690498
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_type_description
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_type_partial_charge
+C1    C     C_R   0.452157 0.199714 0.503795 0.879770
+C2    C     C_R   0.547843 0.800286 0.496205 0.879713
+C3    C     C_R   0.421492 0.480297 0.742522 0.794817
+C4    C     C_R   0.578506 0.519675 0.257468 0.794881
+C5    C     C_2   0.374595 0.458143 0.880609 0.218647
+C6    C     C_2   0.625369 0.541700 0.119372 0.218447
+C7    C     C_2   0.514600 0.473208 0.935230 0.243876
+C8    C     C_2   0.485344 0.526543 0.064745 0.243797
+C9    C     C_2   0.425368 0.031781 0.505637 -0.311071
+C10   C     C_2   0.574632 0.968219 0.494364 -0.311054
+Cu1   Cu    Cu3+1 0.688910 0.517800 0.485820 1.064721
+Cu2   Cu    Cu3+1 0.311090 0.482200 0.514180 1.064736
+H1    H     H_    0.281519 0.960079 0.516291 0.186653
+H2    H     H_    0.718480 0.039921 0.483709 0.186672
+H3    H     H_    0.917119 0.369262 0.595691 0.263717
+H4    H     H_    0.082882 0.630736 0.404306 0.263692
+N1    N     N_2   0.027170 0.455360 0.535550 -0.186816
+N2    N     N_2   0.972830 0.544640 0.464450 -0.186806
+O1    O     O_R   0.622710 0.286400 0.490790 -0.586828
+O2    O     O_R   0.377290 0.713600 0.509210 -0.586860
+O3    O     O_R   0.303660 0.256330 0.514730 -0.581159
+O4    O     O_R   0.696340 0.743670 0.485270 -0.581181
+O5    O     O_R   0.600900 0.509520 0.671740 -0.572172
+O6    O     O_R   0.399100 0.490480 0.328260 -0.572086
+O7    O     O_R   0.281840 0.479450 0.695690 -0.513292
+O8    O     O_R   0.718160 0.520550 0.304310 -0.513276
+Cl1   Cl    Cl    0.287981 0.612895 0.134810 -0.505817
+Cl2   Cl    Cl    0.711707 0.386498 0.865238 -0.505766
+Cl3   Cl    Cl    0.868259 0.628710 0.030737 -0.395019
+Cl4   Cl    Cl    0.131796 0.370717 0.969153 -0.394938
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_ccdc_geom_bond_type
+Cu2   N1    S    
+C2    O4    A    
+C4    O8    A    
+Cu1   Cu2   S    
+Cu1   N2    S    
+C1    O3    A    
+C9    C10   D    
+Cu2   O6    S    
+Cu1   O4    S    
+C3    O5    A    
+Cu2   O7    S    
+Cu2   O2    S    
+N1    N2    D    
+C7    C8    S    
+Cu1   O1    S    
+H4    N2    S    
+C5    C7    D    
+C4    O6    A    
+C1    O1    A    
+C2    O2    A    
+C2    C10   S    
+C3    O7    A    
+C6    Cl3   S    
+C1    C9    S    
+C4    C6    S    
+C5    Cl4   S    
+C10   H2    S    
+Cu1   O5    S    
+H3    N1    S    
+C8    Cl1   S    
+C9    H1    S    
+C6    C8    D    
+Cu1   O8    S    
+Cu2   O3    S    
+C7    Cl2   S    
+C3    C5    S    

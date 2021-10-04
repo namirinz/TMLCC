@@ -1,0 +1,92 @@
+data_mof_unit_67754.cif
+_audit_creation_date              2012-12-10T16:48:46-0500
+_audit_creation_method            fapswitch 2.2
+_symmetry_space_group_name_H-M    P1
+_symmetry_Int_Tables_number       1
+_space_group_crystal_system       triclinic
+_cell_length_a                    7.908619
+_cell_length_b                    8.593361
+_cell_length_c                    10.664611
+_cell_angle_alpha                 89.83572
+_cell_angle_beta                  99.435551
+_cell_angle_gamma                 92.690577
+_cell_volume                      714.181586645
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_type_description
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_type_partial_charge
+C1    C     C_R   0.543630 0.793945 0.499861 0.909888
+C2    C     C_2   0.433781 0.044338 0.478221 -0.067730
+C3    C     C_R   0.456369 0.206056 0.500137 0.909883
+C4    C     C_R   0.571863 0.486411 0.735994 0.870171
+C5    C     C_R   0.428136 0.513585 0.264006 0.870165
+C6    C     C_2   0.615777 0.467192 0.872270 -0.017539
+C7    C     C_2   0.384220 0.532798 0.127728 -0.017535
+C8    C     C_2   0.489095 0.458527 0.939424 0.094731
+C9    C     C_2   0.510903 0.541448 0.060577 0.094726
+C10   C     C_2   0.566215 0.955661 0.521774 -0.067734
+I1    I     I_    0.696349 0.731465 0.101430 -0.171323
+I2    I     I_    0.303645 0.268532 0.898563 -0.171326
+I3    I     I_    0.165915 0.658611 0.057650 -0.137915
+I4    I     I_    0.834091 0.341399 0.942355 -0.137920
+I5    I     I_    0.781257 0.027444 0.662854 -0.166169
+I6    I     I_    0.218736 0.972558 0.337152 -0.166169
+I7    I     I_    0.977104 0.331587 0.311294 -0.052541
+I8    I     I_    0.022890 0.668420 0.688699 -0.052537
+N1    N     N_2   0.940600 0.458860 0.467170 0.028777
+N2    N     N_2   0.059400 0.541140 0.532830 0.028777
+O1    O     O_R   0.391630 0.738350 0.508060 -0.598428
+O2    O     O_R   0.608370 0.261650 0.491940 -0.598430
+O3    O     O_R   0.674540 0.711990 0.487010 -0.591244
+O4    O     O_R   0.325460 0.288010 0.512990 -0.591247
+O5    O     O_R   0.411370 0.508250 0.688780 -0.597457
+O6    O     O_R   0.588630 0.491750 0.311220 -0.597456
+O7    O     O_R   0.694270 0.481880 0.667740 -0.584324
+O8    O     O_R   0.305730 0.518120 0.332260 -0.584325
+Zn1   Zn    Zn3+2 0.311100 0.517600 0.514050 1.081117
+Zn2   Zn    Zn3+2 0.688900 0.482400 0.485950 1.081117
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_ccdc_geom_bond_type
+C5    C7    S    
+C1    O1    A    
+C6    I4    S    
+C5    O8    A    
+C2    I6    S    
+N1    N2    D    
+C8    I2    S    
+C1    O3    A    
+C2    C3    S    
+O7    Zn2   S    
+C9    I1    S    
+C3    O4    A    
+O8    Zn1   S    
+I7    N1    S    
+C4    O5    A    
+I8    N2    S    
+N2    Zn1   S    
+O5    Zn1   S    
+C5    O6    A    
+C2    C10   D    
+O3    Zn2   S    
+C7    I3    S    
+C4    O7    A    
+C4    C6    S    
+C7    C9    D    
+O4    Zn1   S    
+C3    O2    A    
+C6    C8    D    
+O2    Zn2   S    
+C10   I5    S    
+N1    Zn2   S    
+O1    Zn1   S    
+C1    C10   S    
+C8    C9    S    
+O6    Zn2   S    
